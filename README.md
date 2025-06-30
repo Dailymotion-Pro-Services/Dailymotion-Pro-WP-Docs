@@ -11,13 +11,11 @@
 
 The official Dailymotion Pro WordPress plugin that seamlessly integrates Dailymotion videos into your WordPress site.
 
----
 
 ## Description
 
 The Dailymotion Pro WordPress plugin supports your editorial workflow by facilitating the embedding of Dailymotion videos. You can import playback settings from your Dailymotion account and easily manage video content across your WordPress site.
 
----
 
 ## Features
 
@@ -30,7 +28,6 @@ The Dailymotion Pro WordPress plugin supports your editorial workflow by facilit
 - Playlist embedding
 - Customizable player settings
 
----
 
 ## Requirements
 
@@ -38,7 +35,6 @@ The Dailymotion Pro WordPress plugin supports your editorial workflow by facilit
 - PHP 7.4 or higher
 - Active Dailymotion account (for accessing your videos)
 
----
 
 ## Installation
 
@@ -51,7 +47,6 @@ The Dailymotion Pro WordPress plugin supports your editorial workflow by facilit
 
 Once activated, you'll see a **Dailymotion Pro** menu item in your WordPress admin sidebar.
 
----
 
 ## Connecting Your Dailymotion Account
 
@@ -61,7 +56,6 @@ To access your Dailymotion videos and playlists:
 2. Follow the instructions to connect your Dailymotion account.
 3. Once connected, you'll be able to access your videos and playlists directly from the WordPress editor.
 
----
 
 ## Usage
 
@@ -106,7 +100,6 @@ You can manually embed Dailymotion videos using the shortcode:
 [dm-player videoid=“x7zxy9p” videotitle=“My Awesome Video”]
 ```
 
----
 
 ## Configuration
 
@@ -121,7 +114,6 @@ You can manually embed Dailymotion videos using the shortcode:
 1. Go to **Dailymotion Pro > Plugin Settings**.
 2. Adjust default settings for Player ID, mute, video heading, and video title display.
 
----
 
 ## Screenshots
 
@@ -131,7 +123,6 @@ You can manually embed Dailymotion videos using the shortcode:
 4. Plugin settings page
 5. Setup Wizard
 
----
 
 ## Changelog
 
@@ -139,7 +130,6 @@ You can manually embed Dailymotion videos using the shortcode:
 
 - Refreshed plugin from version 1.0.0
 
----
 
 ## Upgrade Notice
 
@@ -147,13 +137,11 @@ You can manually embed Dailymotion videos using the shortcode:
 
 Initial public release of the refreshed Dailymotion Pro WordPress plugin.
 
----
 
 ## Support
 
 For support, please contact the plugin developers through the official support channels or visit the [Dailymotion Pro Documentation](https://github.com/Dailymotion-Pro-Services/Dailymotion-Pro-WP-Docs).
 
----
 
 ## Frequently Asked Questions
 
@@ -177,7 +165,6 @@ The plugin should work with WordPress multisite installations, but some features
 
 Contact the developers through the official support channels or visit the documentation site.
 
----
 
 ## Troubleshooting
 
@@ -194,4 +181,3 @@ Contact the developers through the official support channels or visit the docume
 2. Check if per-post settings are overriding global settings.
 3. Clear your browser cache and reload the page.
 
----
