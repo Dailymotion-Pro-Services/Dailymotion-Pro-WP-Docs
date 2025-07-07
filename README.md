@@ -178,15 +178,6 @@ To access your Dailymotion videos and playlists:
 4. Once a private API key and API secret are stored, you'll be able to access your videos and playlists directly from the WordPress editor
 
 
-## Screenshots
-
-1. Dailymotion Pro block in the WordPress Block Editor
-2. Video search interface
-3. Video settings panel
-4. Plugin settings page
-5. Setup Wizard
-
-
 ## Changelog
 
 ### 2.0.0
