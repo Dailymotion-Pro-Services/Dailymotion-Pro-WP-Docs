@@ -93,7 +93,7 @@ You can manually embed Dailymotion videos using the shortcode:
 2. Adjust default settings for Player ID, mute, video heading, and video title display.
 
 
-= Auth Key =
+## Auth Key
 
 **What is the Auth Key?**
 
