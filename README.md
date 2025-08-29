@@ -4,7 +4,7 @@
 **Tags:** video player, dailymotion, video, embed, media  
 **Requires at least:** WordPress 6.0  
 **Tested up to:** WordPress 6.8.2
-**Stable tag:** 2.1.0
+**Stable tag:** 2.2.0
 **Requires PHP:** 7.4  
 **License:** GPLv2 or later  
 [GPL License](https://www.gnu.org/licenses/gpl-2.0.html)
@@ -182,6 +182,35 @@ As an `Author`, you can see and use the dailymotion plugin (limited options: log
 
 **Contributor**
 As a `Contributor`, you can see and use the dailymotion plugin (limited options: log in, manual embed settings access) and search box/embed options
+
+
+## Source Code and Development
+
+This plugin includes minified JavaScript files that are built from TypeScript source code. In accordance with WordPress plugin guidelines, the source code is included in the plugin package in the `src` directory.
+
+The plugin uses the following build tools:
+- npm: For JavaScript dependency management and build scripts
+- webpack: For bundling and minifying JavaScript files
+- TypeScript: For type-safe JavaScript development
+
+To build the plugin from source:
+1. Install dependencies: `npm install`
+2. Build the JavaScript files: `npm run build`
+
+
+## External Service
+
+This plugin connects to the **Dailymotion API** as an external service. The API is used for:
+
+- **Searching videos**: Search for both public and private content hosted on Dailymotion.
+- **Private content access**: To access private videos, the plugin requires storing an API Key and API Secret securely in your WordPress installation.
+- **Video information retrieval**: The API also provides video metadata (title, thumbnail, etc.) which is used to embed videos seamlessly into the WordPress editor.
+
+By using this plugin, you acknowledge that interactions with the Dailymotion API are subject to Dailymotion's own policies and service conditions.
+
+- [Terms of Use](https://legal.dailymotion.com/en/terms-of-use/)
+- [Privacy Policy](https://legal.dailymotion.com/en/privacy-policy/)
+
 
 ## Support
 

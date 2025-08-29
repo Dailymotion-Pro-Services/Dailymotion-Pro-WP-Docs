@@ -1,5 +1,14 @@
 # Changelog
 
+## 2.2.0
+
+### Security
+- Improved security by strengthening input validation and restricting direct access to sensitive files
+
+### Enhancements
+- Added the uncompiled JavaScript and CSS source files to ensure the plugin remains open, human-readable, and compliant with WordPress.org guidelines.
+
+
 ## 2.1.0
 
 ### Enhancements
