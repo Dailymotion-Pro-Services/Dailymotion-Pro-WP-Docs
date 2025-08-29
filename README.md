@@ -186,7 +186,7 @@ As a `Contributor`, you can see and use the dailymotion plugin (limited options:
 
 ## Source Code and Development
 
-This plugin includes minified JavaScript files that are built from TypeScript source code. In accordance with WordPress plugin guidelines, the source code is included in the plugin package in the `src` directory.
+This plugin includes minified JavaScript files that are built from TypeScript source code. In accordance with WordPress plugin guidelines, the source code is included in the plugin package in the `src` directory for JavaScript and in the `styles` directory for CSS.
 
 The plugin uses the following build tools:
 - npm: For JavaScript dependency management and build scripts
