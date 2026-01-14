@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.2.1
+
+### Bug Fixes
+- Fixed the issue with the plugin not load the player ID from the settings
+
 ## 2.2.0
 
 ### Security
