@@ -4,7 +4,7 @@
 **Tags:** video player, dailymotion, video, embed, media  
 **Requires at least:** WordPress 6.0  
 **Tested up to:** WordPress 6.9
-**Stable tag:** 2.2.1
+**Stable tag:** 2.2.2
 **Requires PHP:** 7.4  
 **License:** GPLv2 or later  
 [GPL License](https://www.gnu.org/licenses/gpl-2.0.html)

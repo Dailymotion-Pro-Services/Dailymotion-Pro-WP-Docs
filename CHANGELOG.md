@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.2.2
+
+### Bug Fixes
+- Fixed the issue with the plugin not working on sites in Gutenberg-only mode in WordPress 6.4
+
 ## 2.2.1
 
 ### Bug Fixes
