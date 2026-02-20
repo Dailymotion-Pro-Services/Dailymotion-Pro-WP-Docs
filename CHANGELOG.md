@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.2.3
+
+### Bug Fixes
+- Supported performance optimizer (script optimizers, caching tools, CloudFront optimizers) to be working with Dailymotion Player.
+
 ## 2.2.2
 
 ### Bug Fixes
