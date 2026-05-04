@@ -4,7 +4,7 @@
 **Tags:** video player, dailymotion, video, embed, media  
 **Requires at least:** WordPress 6.4
 **Tested up to:** WordPress 6.9
-**Stable tag:** 2.2.3
+**Stable tag:** 2.3.0
 **Requires PHP:** 7.4  
 **License:** GPLv2 or later  
 [GPL License](https://www.gnu.org/licenses/gpl-2.0.html)
@@ -31,7 +31,7 @@ The Dailymotion Pro WordPress plugin supports your editorial workflow by facilit
 
 ## Requirements
 
-- WordPress 6.0 or higher
+- WordPress 6.4 or higher
 - PHP 7.4 or higher
 - Active Dailymotion account (for accessing your videos)
 

@@ -1,5 +1,31 @@
 # Changelog
 
+## 2.3.0
+
+### Enhancements
+- New Setup Wizard Experience — A refreshed, step-by-step setup that’s easier to follow from start to finish.
+- Live Player Preview — Instantly see how your video player looks while you adjust settings.
+- Default Video Settings — Set your preferred video display options right from the start.
+- Improved Video Search — Find videos faster with new filters like Channel, Language, and Sort.
+- Per-Post Player Customization — Adjust video titles and headings to match your style on each post.
+- Smarter Dashboard — The dashboard now shows helpful information based on your connection status.
+- Easier Editor Controls — Quickly select videos and manage settings directly in the editor.
+- Better Contextual Matching Setup — A smoother experience when setting up automatic video suggestions.
+- New Feedback Option — Share your thoughts easily through a new feedback banner.
+- Updated Admin Design — A cleaner, more modern look across the admin interface.
+
+### Bug fixes
+- Improved overall stability for a more reliable experience.
+- Smoother navigation in the setup wizard.
+- More consistent video player loading.
+- Better keyboard navigation and focus visibility for accessibility.
+
+### Security
+- General security improvements to keep your experience safe and reliable.
+
+## Compatibility
+- Fully compatible with WordPress 6.4.
+
 ## 2.2.3
 
 ### Bug Fixes
