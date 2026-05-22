@@ -1,5 +1,24 @@
 # Changelog
 
+## 2.4.0
+
+### Enhancements
+- Better editor support across Gutenberg, Theme Editor, and Classic Editor.
+- Improved editor asset loading so Dailymotion UI styles appear more consistently in WordPress editing surfaces.
+- Refined Video Search experience with a dedicated empty-state when no results are found.
+- Improved admin styling separation for plugin screens and WordPress admin menu presentation.
+
+### Bug fixes
+- Fixed Dailymotion block issues when switching between responsive preview modes in the block editor.
+- Fixed Theme Editor compatibility for Dailymotion video search and block interactions.
+- Fixed Classic Editor popup behavior so the modal remains open until insert or close.
+- Fixed Classic Editor styling so the video search popup loads the expected interface styles.
+- Fixed WordPress admin menu icon visibility on non-plugin admin screens.
+- Improved Dailymotion player lifecycle handling to reduce editor-side DOM errors during reinitialization.
+
+### Compatibility
+- Compatible with WordPress 6.4 through 7.0.
+
 ## 2.3.0
 
 ### Enhancements
