@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.4.1
+
+### Bug fixes
+- Fixed visibility issues caused by aggressive WordPress theme layouts (especially those utilizing CSS Grid or Flexbox without explicit grid item sizing)
+
 ## 2.4.0
 
 ### Enhancements
